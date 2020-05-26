@@ -1,5 +1,6 @@
 # Image-Classification-Neural-Network-to-classify-Street-View-House-Numbers
-The Real Problem
+The Real Problem:
+
 Recognizing multi-digit numbers in photographs captured at street level is an important
 component of modern-day map making. A classic example of a corpus of such street
 level photographs are Google’s Street View imagery comprised of hundreds of millions of
@@ -19,7 +20,8 @@ blurs.
 In this project, we will use the dataset with images centered around a single digit (many of the
 images do contain some distractors at the sides). Although we are taking a sample of
 the data which is simpler, it is more complex than MNIST because of the distractors.
-The Street View House Numbers (SVHN) Dataset
+
+The Street View House Numbers (SVHN) Dataset:
 SVHN is a real-world image dataset for developing machine learning and object
 recognition algorithms with the minimal requirement on data formatting but comes from a
 significantly harder, unsolved, real-world problem (recognizing digits and numbers in
